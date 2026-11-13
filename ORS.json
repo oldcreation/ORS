@@ -1,0 +1,2062 @@
+[
+  {
+    "hanzi": "焊把线",
+    "pinyin": "hànbǎxiàn",
+    "answer": "kabel las"
+  },
+  {
+    "hanzi": "龙骨",
+    "pinyin": "lónggǔ",
+    "answer": "kerangka filter"
+  },
+  {
+    "hanzi": "吊篮",
+    "pinyin": "diàolán",
+    "answer": "keranjang gantung"
+  },
+  {
+    "hanzi": "钢板",
+    "pinyin": "gāngbǎn",
+    "answer": "plat baja"
+  },
+  {
+    "hanzi": "备件",
+    "pinyin": "bèijiàn",
+    "answer": "suku cadang"
+  },
+  {
+    "hanzi": "梯子",
+    "pinyin": "tīzi",
+    "answer": "tangga"
+  },
+  {
+    "hanzi": "电源插排",
+    "pinyin": "diànyuán chāpái",
+    "answer": "stopkontak"
+  },
+  {
+    "hanzi": "药品箱",
+    "pinyin": "yàopǐnxiāng",
+    "answer": "kotak obat"
+  },
+  {
+    "hanzi": "考勤",
+    "pinyin": "kǎoqín",
+    "answer": "absensi"
+  },
+  {
+    "hanzi": "应急科",
+    "pinyin": "yìngjíkē",
+    "answer": "departemen ERR"
+  },
+  {
+    "hanzi": "灭火器",
+    "pinyin": "mièhuǒqì",
+    "answer": "APAR"
+  },
+  {
+    "hanzi": "放置",
+    "pinyin": "fàngzhì",
+    "answer": "meletakkan"
+  },
+  {
+    "hanzi": "废铁",
+    "pinyin": "fèitiě",
+    "answer": "besi bekas"
+  },
+  {
+    "hanzi": "米头",
+    "pinyin": "mǐtóu",
+    "answer": "lubang hole"
+  },
+  {
+    "hanzi": "氧气管",
+    "pinyin": "yǎngqìguǎn",
+    "answer": "pipa oksigen"
+  },
+  {
+    "hanzi": "钻机",
+    "pinyin": "zuànjī",
+    "answer": "mesin bor"
+  },
+  {
+    "hanzi": "溜槽",
+    "pinyin": "liūcáo",
+    "answer": "saluran chute"
+  },
+  {
+    "hanzi": "煤基保温泥",
+    "pinyin": "méijībǎowēnní",
+    "answer": "clay hitam"
+  },
+  {
+    "hanzi": "黑泥",
+    "pinyin": "hēiní",
+    "answer": "tanah liat hitam"
+  },
+  {
+    "hanzi": "浇注料",
+    "pinyin": "jiāozhùliào",
+    "answer": "castable"
+  },
+  {
+    "hanzi": "石棉布",
+    "pinyin": "shímiánbù",
+    "answer": "kain asbes"
+  },
+  {
+    "hanzi": "石棉毯",
+    "pinyin": "shímiántǎn",
+    "answer": "selimut asbes"
+  },
+  {
+    "hanzi": "小氧管",
+    "pinyin": "xiǎoyǎngguǎn",
+    "answer": "pipa oksigen kecil"
+  },
+  {
+    "hanzi": "大氧管",
+    "pinyin": "dàyǎngguǎn",
+    "answer": "pipa oksigen besar"
+  },
+  {
+    "hanzi": "钢筋",
+    "pinyin": "gāngjīn",
+    "answer": "besi tulangan"
+  },
+  {
+    "hanzi": "连钢",
+    "pinyin": "liángāng",
+    "answer": "besi sambungan"
+  },
+  {
+    "hanzi": "麻绳",
+    "pinyin": "máshéng",
+    "answer": "tali tambang"
+  },
+  {
+    "hanzi": "吊带",
+    "pinyin": "diàodài",
+    "answer": "tali angkat"
+  },
+  {
+    "hanzi": "测温枪",
+    "pinyin": "cèwēnqiāng",
+    "answer": "pengukur suhu"
+  },
+  {
+    "hanzi": "测温管",
+    "pinyin": "cèwēnguǎn",
+    "answer": "pipa pengukur suhu"
+  },
+  {
+    "hanzi": "测温棒",
+    "pinyin": "cèwēnbàng",
+    "answer": "batang pengukur suhu"
+  },
+  {
+    "hanzi": "铁锹",
+    "pinyin": "tiěqiāo",
+    "answer": "sekop"
+  },
+  {
+    "hanzi": "堵眼机",
+    "pinyin": "dǔyǎnjī",
+    "answer": "mudgun"
+  },
+  {
+    "hanzi": "泥炮",
+    "pinyin": "nípào",
+    "answer": "mudgun"
+  },
+  {
+    "hanzi": "开眼机",
+    "pinyin": "kāiyǎnjī",
+    "answer": "mesin buka tapping"
+  },
+  {
+    "hanzi": "石棉布",
+    "pinyin": "shímiánbù",
+    "answer": "kain asbes"
+  },
+  {
+    "hanzi": "湿石棉",
+    "pinyin": "shīshímián",
+    "answer": "asbes basah"
+  },
+  {
+    "hanzi": "钻头",
+    "pinyin": "zuàntóu",
+    "answer": "mata bor"
+  },
+  {
+    "hanzi": "钻杆",
+    "pinyin": "zuàngǎn",
+    "answer": "batang bor"
+  },
+  {
+    "hanzi": "鞋子",
+    "pinyin": "xiézi",
+    "answer": "sepatu"
+  },
+  {
+    "hanzi": "拖鞋",
+    "pinyin": "tuōxié",
+    "answer": "sandal"
+  },
+  {
+    "hanzi": "祈祷",
+    "pinyin": "qídǎo",
+    "answer": "sholat"
+  },
+  {
+    "hanzi": "椅子",
+    "pinyin": "yǐzi",
+    "answer": "kursi"
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "answer": "meja"
+  },
+  {
+    "hanzi": "纸箱",
+    "pinyin": "zhǐxiāng",
+    "answer": "kardus"
+  },
+  {
+    "hanzi": "盒子",
+    "pinyin": "hézi",
+    "answer": "kotak"
+  },
+  {
+    "hanzi": "隔板",
+    "pinyin": "gébǎn",
+    "answer": "pembatas"
+  },
+  {
+    "hanzi": "麻袋",
+    "pinyin": "mádài",
+    "answer": "karung"
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "answer": "duduk"
+  },
+  {
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "answer": "berdiri"
+  },
+  {
+    "hanzi": "转一转",
+    "pinyin": "zhuànyízhuàn",
+    "answer": "keliling"
+  },
+  {
+    "hanzi": "冶炼厂",
+    "pinyin": "yěliànchǎng",
+    "answer": "smelter"
+  },
+  {
+    "hanzi": "躺着",
+    "pinyin": "tǎngzhe",
+    "answer": "rebahan"
+  },
+  {
+    "hanzi": "电极糊",
+    "pinyin": "diànjíhù",
+    "answer": "pasta elektroda"
+  },
+  {
+    "hanzi": "扣子",
+    "pinyin": "kòuzi",
+    "answer": "kancing"
+  },
+  {
+    "hanzi": "袜子",
+    "pinyin": "wàzi",
+    "answer": "kaos kaki"
+  },
+  {
+    "hanzi": "纪律",
+    "pinyin": "jìlǜ",
+    "answer": "disiplin"
+  },
+  {
+    "hanzi": "发呆",
+    "pinyin": "fādāi",
+    "answer": "melamun"
+  },
+  {
+    "hanzi": "禁止牌",
+    "pinyin": "jìnzhǐpái",
+    "answer": "papan larangan"
+  },
+  {
+    "hanzi": "监督",
+    "pinyin": "jiāndū",
+    "answer": "mengawasi"
+  },
+  {
+    "hanzi": "负责",
+    "pinyin": "fùzé",
+    "answer": "bertanggung jawab"
+  },
+  {
+    "hanzi": "认真",
+    "pinyin": "rènzhēn",
+    "answer": "sungguh-sungguh"
+  },
+  {
+    "hanzi": "堵车",
+    "pinyin": "dǔchē",
+    "answer": "macet"
+  },
+  {
+    "hanzi": "堵塞",
+    "pinyin": "dǔsè",
+    "answer": "mampet"
+  },
+  {
+    "hanzi": "憋不住",
+    "pinyin": "biēbúzhù",
+    "answer": "kebelet"
+  },
+  {
+    "hanzi": "砖头",
+    "pinyin": "zhuāntóu",
+    "answer": "batu bata"
+  },
+  {
+    "hanzi": "围裙",
+    "pinyin": "wéiqún",
+    "answer": "celemek"
+  },
+  {
+    "hanzi": "灭火器",
+    "pinyin": "mièhuǒqì",
+    "answer": "APAR"
+  },
+  {
+    "hanzi": "警报器",
+    "pinyin": "jǐngbàoqì",
+    "answer": "alarm"
+  },
+  {
+    "hanzi": "铁推车",
+    "pinyin": "tiětuīchē",
+    "answer": "gerobak besi"
+  },
+  {
+    "hanzi": "禁止标志",
+    "pinyin": "jìnzhǐbiāozhì",
+    "answer": "papan larangan"
+  },
+  {
+    "hanzi": "警告牌",
+    "pinyin": "jǐnggàopái",
+    "answer": "papan peringatan"
+  },
+  {
+    "hanzi": "电缆",
+    "pinyin": "diànlǎn",
+    "answer": "kabel"
+  },
+  {
+    "hanzi": "管道",
+    "pinyin": "guǎndào",
+    "answer": "pipa"
+  },
+  {
+    "hanzi": "面罩",
+    "pinyin": "miànzhào",
+    "answer": "face shield"
+  },
+  {
+    "hanzi": "安全带",
+    "pinyin": "ānquándài",
+    "answer": "body harness"
+  },
+  {
+    "hanzi": "鼓风机",
+    "pinyin": "gǔfēngjī",
+    "answer": "blower"
+  },
+  {
+    "hanzi": "遥控器",
+    "pinyin": "yáokòngqì",
+    "answer": "remote"
+  },
+  {
+    "hanzi": "塑料袋",
+    "pinyin": "sùliàodài",
+    "answer": "kresek"
+  },
+  {
+    "hanzi": "垃圾袋",
+    "pinyin": "lājīdài",
+    "answer": "kresek sampah"
+  },
+  {
+    "hanzi": "垃圾桶",
+    "pinyin": "lājītǒng",
+    "answer": "tong sampah"
+  },
+  {
+    "hanzi": "地面",
+    "pinyin": "dìmiàn",
+    "answer": "lantai"
+  },
+  {
+    "hanzi": "烟",
+    "pinyin": "yān",
+    "answer": "asap"
+  },
+  {
+    "hanzi": "灰尘",
+    "pinyin": "huīchén",
+    "answer": "debu"
+  },
+  {
+    "hanzi": "食堂",
+    "pinyin": "shítáng",
+    "answer": "kantin"
+  },
+  {
+    "hanzi": "饮水处",
+    "pinyin": "yǐnshuǐchù",
+    "answer": "tempat minum"
+  },
+  {
+    "hanzi": "吸烟区",
+    "pinyin": "xīyānqū",
+    "answer": "tempat merokok"
+  },
+  {
+    "hanzi": "楼梯",
+    "pinyin": "lóutī",
+    "answer": "tangga"
+  },
+  {
+    "hanzi": "地板",
+    "pinyin": "dìbǎn",
+    "answer": "lantai ruangan"
+  },
+  {
+    "hanzi": "着火",
+    "pinyin": "zhuóhuǒ",
+    "answer": "terbakar"
+  },
+  {
+    "hanzi": "摔倒",
+    "pinyin": "shuāidǎo",
+    "answer": "terjatuh"
+  },
+  {
+    "hanzi": "迟到",
+    "pinyin": "chídào",
+    "answer": "terlambat"
+  },
+  {
+    "hanzi": "燃烧",
+    "pinyin": "ránshāo",
+    "answer": "membara"
+  },
+  {
+    "hanzi": "有灰尘",
+    "pinyin": "yǒuhuīchén",
+    "answer": "berdebu"
+  },
+  {
+    "hanzi": "有烟",
+    "pinyin": "yǒuyān",
+    "answer": "berasap"
+  },
+  {
+    "hanzi": "滑",
+    "pinyin": "huá",
+    "answer": "licin"
+  },
+  {
+    "hanzi": "气体",
+    "pinyin": "qìtǐ",
+    "answer": "gas"
+  },
+  {
+    "hanzi": "手套",
+    "pinyin": "shǒutào",
+    "answer": "sarung tangan"
+  },
+  {
+    "hanzi": "耐热手套",
+    "pinyin": "nàirèshǒutào",
+    "answer": "sarung tangan anti panas"
+  },
+  {
+    "hanzi": "耐热",
+    "pinyin": "nàirè",
+    "answer": "anti panas"
+  },
+  {
+    "hanzi": "口罩",
+    "pinyin": "kǒuzhào",
+    "answer": "masker"
+  },
+  {
+    "hanzi": "排队",
+    "pinyin": "páiduì",
+    "answer": "antrian"
+  },
+  {
+    "hanzi": "插队",
+    "pinyin": "chāduì",
+    "answer": "menyela antrian"
+  },
+  {
+    "hanzi": "散落",
+    "pinyin": "sànluò",
+    "answer": "berhambur"
+  },
+  {
+    "hanzi": "矿渣砂",
+    "pinyin": "kuàngzhāshā",
+    "answer": "pasir slag"
+  },
+  {
+    "hanzi": "汽车起重机",
+    "pinyin": "qìchēqǐzhòngjī",
+    "answer": "mobil crane"
+  },
+  {
+    "hanzi": "葫芦吊",
+    "pinyin": "húlúdiào",
+    "answer": "hoist crane"
+  },
+  {
+    "hanzi": "仓库",
+    "pinyin": "cāngkù",
+    "answer": "gudang"
+  },
+  {
+    "hanzi": "雨伞",
+    "pinyin": "yǔsǎn",
+    "answer": "payung"
+  },
+  {
+    "hanzi": "火花",
+    "pinyin": "huǒhuā",
+    "answer": "percikan"
+  },
+  {
+    "hanzi": "熔岩流",
+    "pinyin": "róngyánliú",
+    "answer": "lahar"
+  },
+  {
+    "hanzi": "调动",
+    "pinyin": "diàodòng",
+    "answer": "mutasi"
+  },
+  {
+    "hanzi": "异动",
+    "pinyin": "yìdòng",
+    "answer": "mutasi"
+  },
+  {
+    "hanzi": "班前会",
+    "pinyin": "bānqiánhuì",
+    "answer": "rapat sebelum kerja"
+  },
+  {
+    "hanzi": "班后会",
+    "pinyin": "bānhòuhuì",
+    "answer": "rapat setelah kerja"
+  },
+  {
+    "hanzi": "长白班",
+    "pinyin": "chángbáibān",
+    "answer": "shift siang tetap"
+  },
+  {
+    "hanzi": "钝",
+    "pinyin": "dùn",
+    "answer": "tumpul"
+  },
+  {
+    "hanzi": "锋利",
+    "pinyin": "fēnglì",
+    "answer": "tajam"
+  },
+  {
+    "hanzi": "薄",
+    "pinyin": "báo,bó",
+    "answer": "tipis"
+  },
+  {
+    "hanzi": "厚",
+    "pinyin": "hòu",
+    "answer": "tebal"
+  },
+  {
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "answer": "panjang"
+  },
+  {
+    "hanzi": "短",
+    "pinyin": "duǎn",
+    "answer": "pendek"
+  },
+  {
+    "hanzi": "湿",
+    "pinyin": "shī",
+    "answer": "basah"
+  },
+  {
+    "hanzi": "干",
+    "pinyin": "gān",
+    "answer": "kering"
+  },
+  {
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "answer": "mencari"
+  },
+  {
+    "hanzi": "拍",
+    "pinyin": "pāi",
+    "answer": "memotret"
+  },
+  {
+    "hanzi": "防烫伤",
+    "pinyin": "fángtàngshāng",
+    "answer": "mencegah luka bakar"
+  },
+  {
+    "hanzi": "照片",
+    "pinyin": "zhàopiàn",
+    "answer": "foto"
+  },
+  {
+    "hanzi": "需要",
+    "pinyin": "xūyào",
+    "answer": "perlu"
+  },
+  {
+    "hanzi": "做成",
+    "pinyin": "zuòchéng",
+    "answer": "dibuat menjadi"
+  },
+  {
+    "hanzi": "图册",
+    "pinyin": "túcè",
+    "answer": "album"
+  },
+  {
+    "hanzi": "正确",
+    "pinyin": "zhèngquè",
+    "answer": "benar"
+  },
+  {
+    "hanzi": "站位",
+    "pinyin": "zhànwèi",
+    "answer": "posisi berdiri"
+  },
+  {
+    "hanzi": "错误",
+    "pinyin": "cuòwù",
+    "answer": "salah"
+  },
+  {
+    "hanzi": "发给",
+    "pinyin": "fāgěi",
+    "answer": "kirim ke"
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "answer": "kemarin"
+  },
+  {
+    "hanzi": "安排",
+    "pinyin": "ānpái",
+    "answer": "mengatur"
+  },
+  {
+    "hanzi": "各岗位",
+    "pinyin": "gègǎngwèi",
+    "answer": "tiap posisi"
+  },
+  {
+    "hanzi": "依然",
+    "pinyin": "yīrán",
+    "answer": "tetap"
+  },
+  {
+    "hanzi": "回到",
+    "pinyin": "huídào",
+    "answer": "kembali ke"
+  },
+  {
+    "hanzi": "各自",
+    "pinyin": "gèzì",
+    "answer": "masing-masing"
+  },
+  {
+    "hanzi": "带",
+    "pinyin": "dài",
+    "answer": "membawa"
+  },
+  {
+    "hanzi": "留在",
+    "pinyin": "liúzài",
+    "answer": "tetap tinggal"
+  },
+  {
+    "hanzi": "现场",
+    "pinyin": "xiànchǎng",
+    "answer": "lokasi kerja"
+  },
+  {
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "answer": "bekerja"
+  },
+  {
+    "hanzi": "一张",
+    "pinyin": "yìzhāng",
+    "answer": "satu lembar"
+  },
+  {
+    "hanzi": "错误",
+    "pinyin": "cuòwù",
+    "answer": "salah"
+  },
+  {
+    "hanzi": "正确",
+    "pinyin": "zhèngquè",
+    "answer": "benar"
+  },
+  {
+    "hanzi": "照片",
+    "pinyin": "zhàopiàn",
+    "answer": "foto"
+  },
+  {
+    "hanzi": "卸料口",
+    "pinyin": "xièliàokǒu",
+    "answer": "lubang bahan"
+  },
+  {
+    "hanzi": "渣铁口",
+    "pinyin": "zhātiěkǒu",
+    "answer": "lubang slag,besi"
+  },
+  {
+    "hanzi": "炉盖",
+    "pinyin": "lúgài",
+    "answer": "tutup furnace"
+  },
+  {
+    "hanzi": "24米",
+    "pinyin": "èrshísìmǐ",
+    "answer": "24 meter"
+  },
+  {
+    "hanzi": "带着",
+    "pinyin": "dàizhe",
+    "answer": "membawa bersama"
+  },
+  {
+    "hanzi": "巡检工",
+    "pinyin": "xúnjiǎngōng",
+    "answer": "petugas inspeksi"
+  },
+  {
+    "hanzi": "一起",
+    "pinyin": "yìqǐ",
+    "answer": "bersama"
+  },
+  {
+    "hanzi": "只",
+    "pinyin": "zhǐ",
+    "answer": "hanya"
+  },
+  {
+    "hanzi": "模拟",
+    "pinyin": "mónǐ",
+    "answer": "simulasi"
+  },
+  {
+    "hanzi": "就可以",
+    "pinyin": "jiùkěyǐ",
+    "answer": "sudah cukup"
+  },
+  {
+    "hanzi": "不一定",
+    "pinyin": "bùyídìng",
+    "answer": "tidak harus"
+  },
+  {
+    "hanzi": "实际",
+    "pinyin": "shíjì",
+    "answer": "secara nyata"
+  },
+  {
+    "hanzi": "操作",
+    "pinyin": "cāozuò",
+    "answer": "mengoperasikan"
+  },
+  {
+    "hanzi": "绑",
+    "pinyin": "bǎng",
+    "answer": "mengikat"
+  },
+  {
+    "hanzi": "解开",
+    "pinyin": "jiěkāi",
+    "answer": "melepas ikatan"
+  },
+  {
+    "hanzi": "绳子",
+    "pinyin": "shéngzi",
+    "answer": "tali"
+  },
+  {
+    "hanzi": "取样容器",
+    "pinyin": "qǔyàngróngqì",
+    "answer": "wadah sampel"
+  },
+  {
+    "hanzi": "样品容器",
+    "pinyin": "yàngpǐnróngqì",
+    "answer": "wadah sampel"
+  },
+  {
+    "hanzi": "样品瓶",
+    "pinyin": "yàngpǐnpíng",
+    "answer": "botol sampel"
+  },
+  {
+    "hanzi": "斋戒",
+    "pinyin": "zhāijiè",
+    "answer": "puasa"
+  },
+  {
+    "hanzi": "禁食",
+    "pinyin": "jìnshí",
+    "answer": "berpuasa"
+  },
+  {
+    "hanzi": "封斋",
+    "pinyin": "fēngzhāi",
+    "answer": "berpuasa (konteks Ramadan)"
+  },
+  {
+    "hanzi": "开斋",
+    "pinyin": "kāizhāi",
+    "answer": "berbuka puasa"
+  },
+  {
+    "hanzi": "守斋",
+    "pinyin": "shǒuzhāi",
+    "answer": "menjalankan puasa"
+  },
+  {
+    "hanzi": "绝食",
+    "pinyin": "juéshí",
+    "answer": "mogok makan"
+  },
+  {
+    "hanzi": "柱子",
+    "pinyin": "zhùzi",
+    "answer": "tiang"
+  },
+  {
+    "hanzi": "配电箱",
+    "pinyin": "pèidiànxiāng",
+    "answer": "panel listrik"
+  },
+  {
+    "hanzi": "水瓶",
+    "pinyin": "shuǐpíng",
+    "answer": "botol minum"
+  },
+  {
+    "hanzi": "沸腾",
+    "pinyin": "fèiténg",
+    "answer": "mendidih"
+  },
+  {
+    "hanzi": "温度",
+    "pinyin": "wēndù",
+    "answer": "suhu"
+  },
+  {
+    "hanzi": "轮子",
+    "pinyin": "lúnzi",
+    "answer": "roda"
+  },
+  {
+    "hanzi": "扫把",
+    "pinyin": "sàoba",
+    "answer": "sapu"
+  },
+  {
+    "hanzi": "簸箕",
+    "pinyin": "bòji",
+    "answer": "serok"
+  },
+  {
+    "hanzi": "拖把",
+    "pinyin": "tuōbǎ",
+    "answer": "pel"
+  },
+  {
+    "hanzi": "影响",
+    "pinyin": "yǐngxiǎng",
+    "answer": "mempengaruhi"
+  },
+  {
+    "hanzi": "修理",
+    "pinyin": "xiūlǐ",
+    "answer": "memperbaiki"
+  },
+  {
+    "hanzi": "憋尿",
+    "pinyin": "biēniào",
+    "answer": "kebelet pipis"
+  },
+  {
+    "hanzi": "憋大便",
+    "pinyin": "biēdàbiàn",
+    "answer": "kebelet berak"
+  },
+  {
+    "hanzi": "请假去厕所小便",
+    "pinyin": "qǐngjiàqùcèsuǒxiǎobiàn",
+    "answer": "izin pipis"
+  },
+  {
+    "hanzi": "请假去厕所大便",
+    "pinyin": "qǐngjiàqùcèsuǒdàbiàn",
+    "answer": "izin berak"
+  },
+  {
+    "hanzi": "离岗",
+    "pinyin": "lígǎng",
+    "answer": "meninggalkan posisi kerja"
+  },
+  {
+    "hanzi": "每边儿",
+    "pinyin": "měibiānr",
+    "answer": "setiap sisi"
+  },
+  {
+    "hanzi": "打火机",
+    "pinyin": "dǎhuǒjī",
+    "answer": "korek gas"
+  },
+  {
+    "hanzi": "火柴",
+    "pinyin": "huǒchái",
+    "answer": "korek api (batang)"
+  },
+  {
+    "hanzi": "记录",
+    "pinyin": "jìlù",
+    "answer": "mencatat"
+  },
+  {
+    "hanzi": "记录本",
+    "pinyin": "jìlùběn",
+    "answer": "buku catatan"
+  },
+  {
+    "hanzi": "部门",
+    "pinyin": "bùmén",
+    "answer": "departemen"
+  },
+  {
+    "hanzi": "车间",
+    "pinyin": "chējiān",
+    "answer": "bengkel"
+  },
+  {
+    "hanzi": "班组",
+    "pinyin": "bānzǔ",
+    "answer": "tim kerja"
+  },
+  {
+    "hanzi": "状态",
+    "pinyin": "zhuàngtài",
+    "answer": "kondisi; status"
+  },
+  {
+    "hanzi": "至",
+    "pinyin": "zhì",
+    "answer": "sampai; hingga; kepada"
+  },
+  {
+    "hanzi": "主持人",
+    "pinyin": "zhǔchírén",
+    "answer": "moderator"
+  },
+  {
+    "hanzi": "互联网",
+    "pinyin": "hùliánwǎng",
+    "answer": "internet"
+  },
+  {
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "answer": "mangkuk"
+  },
+  {
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "answer": "nasi"
+  },
+  {
+    "hanzi": "这碗饭",
+    "pinyin": "zhèwǎnfàn",
+    "answer": "pekerjaan bidang ini"
+  },
+  {
+    "hanzi": "吃上",
+    "pinyin": "chīshàng",
+    "answer": "bisa makan"
+  },
+  {
+    "hanzi": "甜甜圈",
+    "pinyin": "tiántiánquān",
+    "answer": "donat"
+  },
+  {
+    "hanzi": "披萨",
+    "pinyin": "pīsà",
+    "answer": "pizza"
+  },
+  {
+    "hanzi": "标出来",
+    "pinyin": "biāochūlái",
+    "answer": "ditandai"
+  },
+  {
+    "hanzi": "警告单",
+    "pinyin": "jǐnggàodān",
+    "answer": "surat peringatan"
+  },
+  {
+    "hanzi": "无罪",
+    "pinyin": "wúzuì",
+    "answer": "tidak bersalah"
+  },
+  {
+    "hanzi": "有罪",
+    "pinyin": "yǒuzuì",
+    "answer": "bersalah (hukum)"
+  },
+  {
+    "hanzi": "车间",
+    "pinyin": "chējiān",
+    "answer": "bengkel,workshop"
+  },
+  {
+    "hanzi": "上报",
+    "pinyin": "shàngbào",
+    "answer": "melaporkan"
+  },
+  {
+    "hanzi": "流程",
+    "pinyin": "liúchéng",
+    "answer": "prosedur"
+  },
+  {
+    "hanzi": "到齐了",
+    "pinyin": "dàoqíle",
+    "answer": "sudah lengkap datang"
+  },
+  {
+    "hanzi": "避免",
+    "pinyin": "bìmiǎn",
+    "answer": "menghindari"
+  },
+  {
+    "hanzi": "劳保",
+    "pinyin": "láobǎo",
+    "answer": "APD"
+  },
+  {
+    "hanzi": "面屏",
+    "pinyin": "miànpíng",
+    "answer": "face shield"
+  },
+  {
+    "hanzi": "被子",
+    "pinyin": "bèizi",
+    "answer": "selimut,bed cover"
+  },
+  {
+    "hanzi": "毯子",
+    "pinyin": "tǎnzi",
+    "answer": "selimut tebal"
+  },
+  {
+    "hanzi": "被吃",
+    "pinyin": "bèichī",
+    "answer": "dimakan"
+  },
+  {
+    "hanzi": "吃掉",
+    "pinyin": "chīdiào",
+    "answer": "dimakan habis"
+  },
+  {
+    "hanzi": "还",
+    "pinyin": "hái",
+    "answer": "masih"
+  },
+  {
+    "hanzi": "需要",
+    "pinyin": "xūyào",
+    "answer": "perlu"
+  },
+  {
+    "hanzi": "记",
+    "pinyin": "jì",
+    "answer": "menghafal"
+  },
+  {
+    "hanzi": "很多",
+    "pinyin": "hěnduō",
+    "answer": "banyak"
+  },
+  {
+    "hanzi": "生词",
+    "pinyin": "shēngcí",
+    "answer": "kosakata baru"
+  },
+  {
+    "hanzi": "应急",
+    "pinyin": "yìngjí",
+    "answer": "darurat"
+  },
+  {
+    "hanzi": "管理",
+    "pinyin": "guǎnlǐ",
+    "answer": "manajemen"
+  },
+  {
+    "hanzi": "管理科",
+    "pinyin": "guǎnlǐkē",
+    "answer": "bagian manajemen"
+  },
+  {
+    "hanzi": "回复",
+    "pinyin": "huífù",
+    "answer": "balasan"
+  },
+  {
+    "hanzi": "炉前",
+    "pinyin": "lúqián",
+    "answer": "depan tungku"
+  },
+  {
+    "hanzi": "印尼",
+    "pinyin": "yìnní",
+    "answer": "Indonesia"
+  },
+  {
+    "hanzi": "员工",
+    "pinyin": "yuángōng",
+    "answer": "karyawan"
+  },
+  {
+    "hanzi": "出渣",
+    "pinyin": "chūzhā",
+    "answer": "mengeluarkan terak"
+  },
+  {
+    "hanzi": "出铁",
+    "pinyin": "chūtiě",
+    "answer": "mengeluarkan besi"
+  },
+  {
+    "hanzi": "时候",
+    "pinyin": "shíhou",
+    "answer": "waktu"
+  },
+  {
+    "hanzi": "可以",
+    "pinyin": "kěyǐ",
+    "answer": "boleh"
+  },
+  {
+    "hanzi": "阻燃",
+    "pinyin": "zǔrán",
+    "answer": "tahan api"
+  },
+  {
+    "hanzi": "围裙",
+    "pinyin": "wéiqún",
+    "answer": "celemek"
+  },
+  {
+    "hanzi": "脱下",
+    "pinyin": "tuōxià",
+    "answer": "melepas"
+  },
+  {
+    "hanzi": "不能",
+    "pinyin": "bùnéng",
+    "answer": "tidak boleh"
+  },
+  {
+    "hanzi": "一直",
+    "pinyin": "yìzhí",
+    "answer": "terus-menerus"
+  },
+  {
+    "hanzi": "穿着",
+    "pinyin": "chuānzhe",
+    "answer": "memakai"
+  },
+  {
+    "hanzi": "防止",
+    "pinyin": "fángzhǐ",
+    "answer": "mencegah"
+  },
+  {
+    "hanzi": "中暑",
+    "pinyin": "zhòngshǔ",
+    "answer": "heatstroke"
+  },
+  {
+    "hanzi": "作业",
+    "pinyin": "zuòyè",
+    "answer": "bekerja"
+  },
+  {
+    "hanzi": "必须",
+    "pinyin": "bìxū",
+    "answer": "wajib"
+  },
+  {
+    "hanzi": "穿上",
+    "pinyin": "chuānshàng",
+    "answer": "mengenakan"
+  },
+  {
+    "hanzi": "所有",
+    "pinyin": "suǒyǒu",
+    "answer": "semua"
+  },
+  {
+    "hanzi": "劳保",
+    "pinyin": "láobǎo",
+    "answer": "perlindungan tenaga kerja"
+  },
+  {
+    "hanzi": "防护",
+    "pinyin": "fánghù",
+    "answer": "perlindungan"
+  },
+  {
+    "hanzi": "用品",
+    "pinyin": "yòngpǐn",
+    "answer": "perlengkapan"
+  },
+  {
+    "hanzi": "下班",
+    "pinyin": "xiàbān",
+    "answer": "pulang kerja"
+  },
+  {
+    "hanzi": "列队",
+    "pinyin": "lièduì",
+    "answer": "berbaris"
+  },
+  {
+    "hanzi": "阻燃",
+    "pinyin": "zǔrán",
+    "answer": "tahan api"
+  },
+  {
+    "hanzi": "行走",
+    "pinyin": "xíngzǒu",
+    "answer": "berjalan"
+  },
+  {
+    "hanzi": "上班",
+    "pinyin": "shàngbān",
+    "answer": "berangkat kerja"
+  },
+  {
+    "hanzi": "普通",
+    "pinyin": "pǔtōng",
+    "answer": "biasa"
+  },
+  {
+    "hanzi": "工作服",
+    "pinyin": "gōngzuòfú",
+    "answer": "seragam kerja"
+  },
+  {
+    "hanzi": "自己",
+    "pinyin": "zìjǐ",
+    "answer": "sendiri"
+  },
+  {
+    "hanzi": "家里",
+    "pinyin": "jiālǐ",
+    "answer": "di rumah"
+  },
+  {
+    "hanzi": "里面",
+    "pinyin": "lǐmiàn",
+    "answer": "di dalam"
+  },
+  {
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "answer": "pakaian"
+  },
+  {
+    "hanzi": "但是",
+    "pinyin": "dànshì",
+    "answer": "tetapi"
+  },
+  {
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "answer": "bekerja"
+  },
+  {
+    "hanzi": "岗位",
+    "pinyin": "gǎngwèi",
+    "answer": "posisi kerja"
+  },
+  {
+    "hanzi": "禁止",
+    "pinyin": "jìnzhǐ",
+    "answer": "melarang"
+  },
+  {
+    "hanzi": "阻燃",
+    "pinyin": "zǔrán",
+    "answer": "tahan api"
+  },
+  {
+    "hanzi": "伤口",
+    "pinyin": "shāngkǒu",
+    "answer": "luka"
+  },
+  {
+    "hanzi": "前天",
+    "pinyin": "qiántiān",
+    "answer": "kemarin lusa"
+  },
+  {
+    "hanzi": "后天",
+    "pinyin": "hòutiān",
+    "answer": "lusa"
+  },
+  {
+    "hanzi": "储物柜",
+    "pinyin": "chǔwùguì",
+    "answer": "loker"
+  },
+  {
+    "hanzi": "衣柜",
+    "pinyin": "yīguì",
+    "answer": "lemari pakaian"
+  },
+  {
+    "hanzi": "更衣柜",
+    "pinyin": "gēngyīguì",
+    "answer": "loker ruang ganti"
+  },
+  {
+    "hanzi": "安全",
+    "pinyin": "ānquán",
+    "answer": "keselamatan"
+  },
+  {
+    "hanzi": "隐患",
+    "pinyin": "yǐnhuàn",
+    "answer": "potensi bahaya"
+  },
+  {
+    "hanzi": "搅拌",
+    "pinyin": "jiǎobàn",
+    "answer": "mencampur"
+  },
+  {
+    "hanzi": "均匀",
+    "pinyin": "jūnyún",
+    "answer": "merata"
+  },
+  {
+    "hanzi": "口袋",
+    "pinyin": "kǒudài",
+    "answer": "kantong"
+  },
+  {
+    "hanzi": "抽",
+    "pinyin": "chōu",
+    "answer": "laci"
+  },
+  {
+    "hanzi": "柜",
+    "pinyin": "guì",
+    "answer": "lemari"
+  },
+  {
+    "hanzi": "坚持",
+    "pinyin": "jiānchí",
+    "answer": "bersikeras"
+  },
+  {
+    "hanzi": "懈",
+    "pinyin": "xiè",
+    "answer": "kendur"
+  },
+  {
+    "hanzi": "批准",
+    "pinyin": "pīzhǔn",
+    "answer": "menyetujui"
+  },
+  {
+    "hanzi": "请假",
+    "pinyin": "qǐngjià",
+    "answer": "meminta izin"
+  },
+  {
+    "hanzi": "电线",
+    "pinyin": "diànxiàn",
+    "answer": "kabel listrik"
+  },
+  {
+    "hanzi": "电缆",
+    "pinyin": "diànlǎn",
+    "answer": "kabel (lebih besar)"
+  },
+  {
+    "hanzi": "数据线",
+    "pinyin": "shùjùxiàn",
+    "answer": "kabel data"
+  },
+  {
+    "hanzi": "网线",
+    "pinyin": "wǎngxiàn",
+    "answer": "kabel LAN"
+  },
+  {
+    "hanzi": "耳机线",
+    "pinyin": "ěrjīxiàn",
+    "answer": "kabel earphone"
+  },
+  {
+    "hanzi": "自己",
+    "pinyin": "zìjǐ",
+    "answer": "sendiri"
+  },
+  {
+    "hanzi": "考勤",
+    "pinyin": "kǎoqín",
+    "answer": "absensi kerja"
+  },
+  {
+    "hanzi": "签到",
+    "pinyin": "qiāndào",
+    "answer": "check-in"
+  },
+  {
+    "hanzi": "点名",
+    "pinyin": "diǎnmíng",
+    "answer": "dikte absen"
+  },
+  {
+    "hanzi": "辛苦",
+    "pinyin": "xīnkǔ",
+    "answer": "melelahkan"
+  },
+  {
+    "hanzi": "危险",
+    "pinyin": "wēixiǎn",
+    "answer": "berbahaya"
+  },
+  {
+    "hanzi": "运气",
+    "pinyin": "yùnqì",
+    "answer": "keberuntungan"
+  },
+  {
+    "hanzi": "结果",
+    "pinyin": "jiéguǒ",
+    "answer": "hasil"
+  },
+  {
+    "hanzi": "饭盒",
+    "pinyin": "fànhé",
+    "answer": "rantang"
+  },
+  {
+    "hanzi": "手推车",
+    "pinyin": "shǒutuīchē",
+    "answer": "troli"
+  },
+  {
+    "hanzi": "意见",
+    "pinyin": "yìjiàn",
+    "answer": "pendapat"
+  },
+  {
+    "hanzi": "早班",
+    "pinyin": "zǎobān",
+    "answer": "shift pagi"
+  },
+  {
+    "hanzi": "中班",
+    "pinyin": "zhōngbān",
+    "answer": "shift siang"
+  },
+  {
+    "hanzi": "晚班",
+    "pinyin": "wǎnbān",
+    "answer": "shift malam"
+  },
+  {
+    "hanzi": "碰到",
+    "pinyin": "pèngdào",
+    "answer": "bertemu (tidak sengaja)"
+  },
+  {
+    "hanzi": "偶然发现",
+    "pinyin": "ǒuránfāxiàn",
+    "answer": "tidak sengaja menemukan"
+  },
+  {
+    "hanzi": "无意中看到",
+    "pinyin": "wúyìzhōngkàndào",
+    "answer": "tanpa sengaja melihat"
+  },
+  {
+    "hanzi": "剪",
+    "pinyin": "jiǎn",
+    "answer": "memotong dengan gunting"
+  },
+  {
+    "hanzi": "贴纸",
+    "pinyin": "tiēzhǐ",
+    "answer": "stiker"
+  },
+  {
+    "hanzi": "他们",
+    "pinyin": "tāmen",
+    "answer": "mereka"
+  },
+  {
+    "hanzi": "正在",
+    "pinyin": "zhèngzài",
+    "answer": "sedang"
+  },
+  {
+    "hanzi": "评估",
+    "pinyin": "pínggū",
+    "answer": "evaluasi"
+  },
+  {
+    "hanzi": "能不能",
+    "pinyin": "néngbùnéng",
+    "answer": "bisa atau tidak"
+  },
+  {
+    "hanzi": "进",
+    "pinyin": "jìn",
+    "answer": "masuk"
+  },
+  {
+    "hanzi": "班",
+    "pinyin": "bān",
+    "answer": "shift kerja"
+  },
+  {
+    "hanzi": "难得",
+    "pinyin": "nándé",
+    "answer": "tumben"
+  },
+  {
+    "hanzi": "真难得",
+    "pinyin": "zhēnnándé",
+    "answer": "tumben sekali"
+  },
+  {
+    "hanzi": "少见",
+    "pinyin": "shǎojiàn",
+    "answer": "jarang terlihat"
+  },
+  {
+    "hanzi": "挺少见",
+    "pinyin": "tǐngshǎojiàn",
+    "answer": "cukup jarang"
+  },
+  {
+    "hanzi": "不常见",
+    "pinyin": "bùchángjiàn",
+    "answer": "tidak sering terlihat"
+  },
+  {
+    "hanzi": "点餐",
+    "pinyin": "diǎncān",
+    "answer": "memesan makanan"
+  },
+  {
+    "hanzi": "厨房",
+    "pinyin": "chúfáng",
+    "answer": "dapur"
+  },
+  {
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "answer": "mengambil"
+  },
+  {
+    "hanzi": "培训",
+    "pinyin": "péixùn",
+    "answer": "pelatihan"
+  },
+  {
+    "hanzi": "日期",
+    "pinyin": "rìqī",
+    "answer": "tanggal"
+  },
+  {
+    "hanzi": "更改",
+    "pinyin": "gēnggǎi",
+    "answer": "mengubah"
+  },
+  {
+    "hanzi": "为",
+    "pinyin": "wéi",
+    "answer": "menjadi"
+  },
+  {
+    "hanzi": "帽号",
+    "pinyin": "màohào",
+    "answer": "nomor helm"
+  },
+  {
+    "hanzi": "轮班",
+    "pinyin": "lúnbān",
+    "answer": "kerja shift"
+  },
+  {
+    "hanzi": "领取",
+    "pinyin": "lǐngqǔ",
+    "answer": "mengambil"
+  },
+  {
+    "hanzi": "粘贴上",
+    "pinyin": "zhāntiēshàng",
+    "answer": "menempelkan"
+  },
+  {
+    "hanzi": "电除尘",
+    "pinyin": "diànchúchén",
+    "answer": "ESP"
+  },
+  {
+    "hanzi": "粉尘",
+    "pinyin": "fěnchén",
+    "answer": "debu"
+  },
+  {
+    "hanzi": "飞灰",
+    "pinyin": "fēihuī",
+    "answer": "abu halus"
+  },
+  {
+    "hanzi": "烟气",
+    "pinyin": "yānqì",
+    "answer": "gas buang"
+  },
+  {
+    "hanzi": "高压电",
+    "pinyin": "gāoyādiàn",
+    "answer": "listrik tegangan tinggi"
+  },
+  {
+    "hanzi": "电压",
+    "pinyin": "diànyā",
+    "answer": "tegangan"
+  },
+  {
+    "hanzi": "电流",
+    "pinyin": "diànliú",
+    "answer": "arus listrik"
+  },
+  {
+    "hanzi": "电极",
+    "pinyin": "diànjí",
+    "answer": "elektroda"
+  },
+  {
+    "hanzi": "极板",
+    "pinyin": "jíbǎn",
+    "answer": "plate kolektor"
+  },
+  {
+    "hanzi": "振打",
+    "pinyin": "zhèndǎ",
+    "answer": "rapping"
+  },
+  {
+    "hanzi": "振打装置",
+    "pinyin": "zhèndǎzhuāngzhì",
+    "answer": "alat rapping"
+  },
+  {
+    "hanzi": "灰斗",
+    "pinyin": "huīdǒu",
+    "answer": "hopper penampung debu"
+  },
+  {
+    "hanzi": "卸灰",
+    "pinyin": "xièhuī",
+    "answer": "pembuangan debu"
+  },
+  {
+    "hanzi": "输灰系统",
+    "pinyin": "shūhuīxìtǒng",
+    "answer": "sistem pengangkut debu"
+  },
+  {
+    "hanzi": "绝缘子",
+    "pinyin": "juéyuánzǐ",
+    "answer": "insulator"
+  },
+  {
+    "hanzi": "控制柜",
+    "pinyin": "kòngzhìguì",
+    "answer": "panel kontrol"
+  },
+  {
+    "hanzi": "电源",
+    "pinyin": "diànyuán",
+    "answer": "sumber listrik"
+  },
+  {
+    "hanzi": "巡检",
+    "pinyin": "xúnjiǎn",
+    "answer": "patroli"
+  },
+  {
+    "hanzi": "检修",
+    "pinyin": "jiǎnxiū",
+    "answer": "maintenance"
+  },
+  {
+    "hanzi": "故障",
+    "pinyin": "gùzhàng",
+    "answer": "kerusakan"
+  },
+  {
+    "hanzi": "排放",
+    "pinyin": "páifàng",
+    "answer": "emisi"
+  },
+  {
+    "hanzi": "烟囱",
+    "pinyin": "yāncōng",
+    "answer": "cerobong"
+  },
+  {
+    "hanzi": "轮班",
+    "pinyin": "lúnbān",
+    "answer": "kerja shift"
+  },
+  {
+    "hanzi": "更换",
+    "pinyin": "gēnghuàn",
+    "answer": "mengganti"
+  },
+  {
+    "hanzi": "烟灰缸",
+    "pinyin": "yānhuīgāng",
+    "answer": "asbak"
+  },
+  {
+    "hanzi": "排气管",
+    "pinyin": "páiqìguǎn",
+    "answer": "pipa pembuangan gas"
+  },
+  {
+    "hanzi": "排气",
+    "pinyin": "páiqì",
+    "answer": "membuang gas"
+  },
+  {
+    "hanzi": "管",
+    "pinyin": "guǎn",
+    "answer": "pipa"
+  },
+  {
+    "hanzi": "布袋",
+    "pinyin": "bùdài",
+    "answer": "putai"
+  },
+  {
+    "hanzi": "加湿机",
+    "pinyin": "jiāshījī",
+    "answer": "pugmill"
+  },
+  {
+    "hanzi": "维修",
+    "pinyin": "wéixiū",
+    "answer": "perbaikan"
+  },
+  {
+    "hanzi": "负压",
+    "pinyin": "fùyā",
+    "answer": "tekanan negatif"
+  },
+  {
+    "hanzi": "观察",
+    "pinyin": "guānchá",
+    "answer": "mengamati"
+  },
+  {
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "answer": "lubang"
+  },
+  {
+    "hanzi": "电场",
+    "pinyin": "diànchǎng",
+    "answer": "medan listrik"
+  },
+  {
+    "hanzi": "尾排风机",
+    "pinyin": "wěipáifēngjī",
+    "answer": "telle fan"
+  },
+  {
+    "hanzi": "卸灰阀",
+    "pinyin": "xièhuīfá",
+    "answer": "katup cinder"
+  },
+  {
+    "hanzi": "刮板机",
+    "pinyin": "guābǎnjī",
+    "answer": "scraper"
+  },
+  {
+    "hanzi": "仓式泵",
+    "pinyin": "cāngshìbèng",
+    "answer": "blowpot"
+  },
+  {
+    "hanzi": "输灰管",
+    "pinyin": "shūhuīguǎn",
+    "answer": "pipa debu"
+  },
+  {
+    "hanzi": "反吹",
+    "pinyin": "fǎnchuī",
+    "answer": "vibrator"
+  },
+  {
+    "hanzi": "离心风机",
+    "pinyin": "líxīnfēngjī",
+    "answer": "kipas sentil"
+  },
+  {
+    "hanzi": "搅拌机",
+    "pinyin": "jiǎobànjī",
+    "answer": "mesin mixer"
+  },
+  {
+    "hanzi": "叉车",
+    "pinyin": "chāchē",
+    "answer": "forklift"
+  },
+  {
+    "hanzi": "沉降仓",
+    "pinyin": "chénjiàngcāng",
+    "answer": "tempat penampungan"
+  },
+  {
+    "hanzi": "上导轨",
+    "pinyin": "shàngdǎoguǐ",
+    "answer": "rel atas"
+  },
+  {
+    "hanzi": "下导轨",
+    "pinyin": "xiàdǎoguǐ",
+    "answer": "rel bawah"
+  },
+  {
+    "hanzi": "导灰",
+    "pinyin": "dǎohuī",
+    "answer": "buang debu"
+  },
+  {
+    "hanzi": "螺栓",
+    "pinyin": "luóshuān",
+    "answer": "baut"
+  },
+  {
+    "hanzi": "公园",
+    "pinyin": "gōngyuán",
+    "answer": "taman"
+  },
+  {
+    "hanzi": "植物",
+    "pinyin": "zhíwù",
+    "answer": "tanaman"
+  },
+  {
+    "hanzi": "动物",
+    "pinyin": "dòngwù",
+    "answer": "hewan"
+  },
+  {
+    "hanzi": "花盆",
+    "pinyin": "huāpén",
+    "answer": "pot"
+  },
+  {
+    "hanzi": "焊接",
+    "pinyin": "hànjiē",
+    "answer": "mengelas"
+  },
+  {
+    "hanzi": "进气阀",
+    "pinyin": "jìnqìfá",
+    "answer": "katup udara masuk"
+  },
+  {
+    "hanzi": "目标仓",
+    "pinyin": "mùbiāocāng",
+    "answer": "gudang tujuan"
+  },
+  {
+    "hanzi": "母管压力",
+    "pinyin": "mǔguǎnyālì",
+    "answer": "tekanan pipa utama"
+  },
+  {
+    "hanzi": "锤子",
+    "pinyin": "chuízi",
+    "answer": "palu"
+  },
+  {
+    "hanzi": "螺丝刀",
+    "pinyin": "luósīdāo",
+    "answer": "obeng"
+  },
+  {
+    "hanzi": "酒精",
+    "pinyin": "jiǔjīng",
+    "answer": "alkohol"
+  },
+  {
+    "hanzi": "油",
+    "pinyin": "yóu",
+    "answer": "minyak"
+  },
+  {
+    "hanzi": "阀门",
+    "pinyin": "fámén",
+    "answer": "katup"
+  },
+  {
+    "hanzi": "扳手",
+    "pinyin": "bānshou",
+    "answer": "kunci pas"
+  },
+  {
+    "hanzi": "内六角扳手",
+    "pinyin": "nèiliùjiǎobānshou",
+    "answer": "kunci L"
+  },
+  {
+    "hanzi": "煤气罐",
+    "pinyin": "méiqìguàn",
+    "answer": "tabung gas"
+  },
+  {
+    "hanzi": "氧气瓶",
+    "pinyin": "yǎngqìpíng",
+    "answer": "tabung oksigen"
+  },
+  {
+    "hanzi": "气压",
+    "pinyin": "qìyā",
+    "answer": "tekanan udara"
+  },
+  {
+    "hanzi": "挂牌",
+    "pinyin": "guàpái",
+    "answer": "LOTO"
+  },
+  {
+    "hanzi": "铁",
+    "pinyin": "tiě",
+    "answer": "besi"
+  },
+  {
+    "hanzi": "木头",
+    "pinyin": "mùtou",
+    "answer": "kayu"
+  },
+  {
+    "hanzi": "沙子",
+    "pinyin": "shāzi",
+    "answer": "pasir"
+  },
+  {
+    "hanzi": "土",
+    "pinyin": "tǔ",
+    "answer": "tanah"
+  },
+  {
+    "hanzi": "水泥",
+    "pinyin": "shuǐní",
+    "answer": "semen"
+  },
+  {
+    "hanzi": "油漆",
+    "pinyin": "yóuqī",
+    "answer": "cat"
+  },
+  {
+    "hanzi": "围栏",
+    "pinyin": "wéilán",
+    "answer": "pagar"
+  },
+  {
+    "hanzi": "锁",
+    "pinyin": "suǒ",
+    "answer": "kunci"
+  },
+  {
+    "hanzi": "螺丝刀",
+    "pinyin": "luósīdāo",
+    "answer": "obeng"
+  },
+  {
+    "hanzi": "刷漆",
+    "pinyin": "shuāqī",
+    "answer": "mencat"
+  },
+  {
+    "hanzi": "撒谎",
+    "pinyin": "sāhuǎng",
+    "answer": "berbohong"
+  }
+    ]
