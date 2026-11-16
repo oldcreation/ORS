@@ -46,7 +46,7 @@
   },
   {
     "hanzi": "应急科",
-    "pinyin": "yìngjíkē",
+    "pinyin": "yìngjí kē",
     "answer": "departemen ERR"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "hanzi": "煤基保温泥",
-    "pinyin": "méijībǎowēnní",
+    "pinyin": "méijī bǎowēn ní",
     "answer": "clay hitam"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "hanzi": "连钢",
-    "pinyin": "liángāng",
+    "pinyin": "lián gāng",
     "answer": "besi sambungan"
   },
   {
@@ -175,13 +175,8 @@
     "answer": "mesin buka tapping"
   },
   {
-    "hanzi": "石棉布",
-    "pinyin": "shímiánbù",
-    "answer": "kain asbes"
-  },
-  {
     "hanzi": "湿石棉",
-    "pinyin": "shīshímián",
+    "pinyin": "shī shímián",
     "answer": "asbes basah"
   },
   {
@@ -251,8 +246,8 @@
   },
   {
     "hanzi": "转一转",
-    "pinyin": "zhuànyízhuàn",
-    "answer": "keliling"
+    "pinyin": "zhuàn yi zhuàn",
+    "answer": "berkeliling"
   },
   {
     "hanzi": "冶炼厂",
@@ -261,7 +256,7 @@
   },
   {
     "hanzi": "躺着",
-    "pinyin": "tǎngzhe",
+    "pinyin": "tǎng zhe",
     "answer": "rebahan"
   },
   {
@@ -281,7 +276,7 @@
   },
   {
     "hanzi": "纪律",
-    "pinyin": "jìlǜ",
+    "pinyin": "jǐlǜ",
     "answer": "disiplin"
   },
   {
@@ -321,7 +316,7 @@
   },
   {
     "hanzi": "憋不住",
-    "pinyin": "biēbúzhù",
+    "pinyin": "biē bú zhù",
     "answer": "kebelet"
   },
   {
@@ -335,11 +330,6 @@
     "answer": "celemek"
   },
   {
-    "hanzi": "灭火器",
-    "pinyin": "mièhuǒqì",
-    "answer": "APAR"
-  },
-  {
     "hanzi": "警报器",
     "pinyin": "jǐngbàoqì",
     "answer": "alarm"
@@ -351,7 +341,7 @@
   },
   {
     "hanzi": "禁止标志",
-    "pinyin": "jìnzhǐbiāozhì",
+    "pinyin": "jìnzhǐ biāozhì",
     "answer": "papan larangan"
   },
   {
@@ -446,7 +436,7 @@
   },
   {
     "hanzi": "着火",
-    "pinyin": "zhuóhuǒ",
+    "pinyin": "zháohuǒ",
     "answer": "terbakar"
   },
   {
@@ -466,12 +456,12 @@
   },
   {
     "hanzi": "有灰尘",
-    "pinyin": "yǒuhuīchén",
+    "pinyin": "yǒu huīchén",
     "answer": "berdebu"
   },
   {
     "hanzi": "有烟",
-    "pinyin": "yǒuyān",
+    "pinyin": "yǒu yān",
     "answer": "berasap"
   },
   {
@@ -526,7 +516,7 @@
   },
   {
     "hanzi": "汽车起重机",
-    "pinyin": "qìchēqǐzhòngjī",
+    "pinyin": "qìchē qǐzhòngjī",
     "answer": "mobil crane"
   },
   {
@@ -591,7 +581,7 @@
   },
   {
     "hanzi": "薄",
-    "pinyin": "báo,bó",
+    "pinyin": "báo, bó",
     "answer": "tipis"
   },
   {
@@ -631,7 +621,7 @@
   },
   {
     "hanzi": "防烫伤",
-    "pinyin": "fángtàngshāng",
+    "pinyin": "fáng tàngshāng",
     "answer": "mencegah luka bakar"
   },
   {
@@ -671,7 +661,7 @@
   },
   {
     "hanzi": "发给",
-    "pinyin": "fāgěi",
+    "pinyin": "fā gěi",
     "answer": "kirim ke"
   },
   {
@@ -686,7 +676,7 @@
   },
   {
     "hanzi": "各岗位",
-    "pinyin": "gègǎngwèi",
+    "pinyin": "gè gǎngwèi",
     "answer": "tiap posisi"
   },
   {
@@ -696,7 +686,7 @@
   },
   {
     "hanzi": "回到",
-    "pinyin": "huídào",
+    "pinyin": "huí dào",
     "answer": "kembali ke"
   },
   {
@@ -711,7 +701,7 @@
   },
   {
     "hanzi": "留在",
-    "pinyin": "liúzài",
+    "pinyin": "liú zài",
     "answer": "tetap tinggal"
   },
   {
@@ -726,23 +716,8 @@
   },
   {
     "hanzi": "一张",
-    "pinyin": "yìzhāng",
+    "pinyin": "yì zhāng",
     "answer": "satu lembar"
-  },
-  {
-    "hanzi": "错误",
-    "pinyin": "cuòwù",
-    "answer": "salah"
-  },
-  {
-    "hanzi": "正确",
-    "pinyin": "zhèngquè",
-    "answer": "benar"
-  },
-  {
-    "hanzi": "照片",
-    "pinyin": "zhàopiàn",
-    "answer": "foto"
   },
   {
     "hanzi": "卸料口",
@@ -752,7 +727,7 @@
   {
     "hanzi": "渣铁口",
     "pinyin": "zhātiěkǒu",
-    "answer": "lubang slag,besi"
+    "answer": "lubang slag, besi"
   },
   {
     "hanzi": "炉盖",
@@ -761,12 +736,12 @@
   },
   {
     "hanzi": "24米",
-    "pinyin": "èrshísìmǐ",
+    "pinyin": "èrshísì mǐ",
     "answer": "24 meter"
   },
   {
     "hanzi": "带着",
-    "pinyin": "dàizhe",
+    "pinyin": "dài zhe",
     "answer": "membawa bersama"
   },
   {
@@ -791,12 +766,12 @@
   },
   {
     "hanzi": "就可以",
-    "pinyin": "jiùkěyǐ",
+    "pinyin": "jiù kěyǐ",
     "answer": "sudah cukup"
   },
   {
     "hanzi": "不一定",
-    "pinyin": "bùyídìng",
+    "pinyin": "bù yídìng",
     "answer": "tidak harus"
   },
   {
@@ -826,12 +801,12 @@
   },
   {
     "hanzi": "取样容器",
-    "pinyin": "qǔyàngróngqì",
+    "pinyin": "qǔyàng róngqì",
     "answer": "wadah sampel"
   },
   {
     "hanzi": "样品容器",
-    "pinyin": "yàngpǐnróngqì",
+    "pinyin": "yàngpǐn róngqì",
     "answer": "wadah sampel"
   },
   {
@@ -901,7 +876,7 @@
   },
   {
     "hanzi": "扫把",
-    "pinyin": "sàoba",
+    "pinyin": "sàobǎ",
     "answer": "sapu"
   },
   {
@@ -926,23 +901,13 @@
   },
   {
     "hanzi": "憋尿",
-    "pinyin": "biēniào",
+    "pinyin": "biē niào",
     "answer": "kebelet pipis"
   },
   {
     "hanzi": "憋大便",
-    "pinyin": "biēdàbiàn",
+    "pinyin": "biē dàbiàn",
     "answer": "kebelet berak"
-  },
-  {
-    "hanzi": "请假去厕所小便",
-    "pinyin": "qǐngjiàqùcèsuǒxiǎobiàn",
-    "answer": "izin pipis"
-  },
-  {
-    "hanzi": "请假去厕所大便",
-    "pinyin": "qǐngjiàqùcèsuǒdàbiàn",
-    "answer": "izin berak"
   },
   {
     "hanzi": "离岗",
@@ -951,7 +916,7 @@
   },
   {
     "hanzi": "每边儿",
-    "pinyin": "měibiānr",
+    "pinyin": "měi biānr",
     "answer": "setiap sisi"
   },
   {
@@ -1021,12 +986,12 @@
   },
   {
     "hanzi": "这碗饭",
-    "pinyin": "zhèwǎnfàn",
+    "pinyin": "zhè wǎn fàn",
     "answer": "pekerjaan bidang ini"
   },
   {
     "hanzi": "吃上",
-    "pinyin": "chīshàng",
+    "pinyin": "chī shàng",
     "answer": "bisa makan"
   },
   {
@@ -1041,7 +1006,7 @@
   },
   {
     "hanzi": "标出来",
-    "pinyin": "biāochūlái",
+    "pinyin": "biāo chū lái",
     "answer": "ditandai"
   },
   {
@@ -1060,11 +1025,6 @@
     "answer": "bersalah (hukum)"
   },
   {
-    "hanzi": "车间",
-    "pinyin": "chējiān",
-    "answer": "bengkel,workshop"
-  },
-  {
     "hanzi": "上报",
     "pinyin": "shàngbào",
     "answer": "melaporkan"
@@ -1076,7 +1036,7 @@
   },
   {
     "hanzi": "到齐了",
-    "pinyin": "dàoqíle",
+    "pinyin": "dào qí le",
     "answer": "sudah lengkap datang"
   },
   {
@@ -1097,7 +1057,7 @@
   {
     "hanzi": "被子",
     "pinyin": "bèizi",
-    "answer": "selimut,bed cover"
+    "answer": "selimut, bed cover"
   },
   {
     "hanzi": "毯子",
@@ -1106,7 +1066,7 @@
   },
   {
     "hanzi": "被吃",
-    "pinyin": "bèichī",
+    "pinyin": "bèi chī",
     "answer": "dimakan"
   },
   {
@@ -1118,11 +1078,6 @@
     "hanzi": "还",
     "pinyin": "hái",
     "answer": "masih"
-  },
-  {
-    "hanzi": "需要",
-    "pinyin": "xūyào",
-    "answer": "perlu"
   },
   {
     "hanzi": "记",
@@ -1200,11 +1155,6 @@
     "answer": "tahan api"
   },
   {
-    "hanzi": "围裙",
-    "pinyin": "wéiqún",
-    "answer": "celemek"
-  },
-  {
     "hanzi": "脱下",
     "pinyin": "tuōxià",
     "answer": "melepas"
@@ -1255,11 +1205,6 @@
     "answer": "semua"
   },
   {
-    "hanzi": "劳保",
-    "pinyin": "láobǎo",
-    "answer": "perlindungan tenaga kerja"
-  },
-  {
     "hanzi": "防护",
     "pinyin": "fánghù",
     "answer": "perlindungan"
@@ -1278,11 +1223,6 @@
     "hanzi": "列队",
     "pinyin": "lièduì",
     "answer": "berbaris"
-  },
-  {
-    "hanzi": "阻燃",
-    "pinyin": "zǔrán",
-    "answer": "tahan api"
   },
   {
     "hanzi": "行走",
@@ -1330,11 +1270,6 @@
     "answer": "tetapi"
   },
   {
-    "hanzi": "工作",
-    "pinyin": "gōngzuò",
-    "answer": "bekerja"
-  },
-  {
     "hanzi": "岗位",
     "pinyin": "gǎngwèi",
     "answer": "posisi kerja"
@@ -1343,11 +1278,6 @@
     "hanzi": "禁止",
     "pinyin": "jìnzhǐ",
     "answer": "melarang"
-  },
-  {
-    "hanzi": "阻燃",
-    "pinyin": "zǔrán",
-    "answer": "tahan api"
   },
   {
     "hanzi": "伤口",
@@ -1440,11 +1370,6 @@
     "answer": "kabel listrik"
   },
   {
-    "hanzi": "电缆",
-    "pinyin": "diànlǎn",
-    "answer": "kabel (lebih besar)"
-  },
-  {
     "hanzi": "数据线",
     "pinyin": "shùjùxiàn",
     "answer": "kabel data"
@@ -1458,16 +1383,6 @@
     "hanzi": "耳机线",
     "pinyin": "ěrjīxiàn",
     "answer": "kabel earphone"
-  },
-  {
-    "hanzi": "自己",
-    "pinyin": "zìjǐ",
-    "answer": "sendiri"
-  },
-  {
-    "hanzi": "考勤",
-    "pinyin": "kǎoqín",
-    "answer": "absensi kerja"
   },
   {
     "hanzi": "签到",
@@ -1536,12 +1451,12 @@
   },
   {
     "hanzi": "偶然发现",
-    "pinyin": "ǒuránfāxiàn",
+    "pinyin": "ǒurán fāxiàn",
     "answer": "tidak sengaja menemukan"
   },
   {
     "hanzi": "无意中看到",
-    "pinyin": "wúyìzhōngkàndào",
+    "pinyin": "wúyì zhōng kàndào",
     "answer": "tanpa sengaja melihat"
   },
   {
@@ -1571,7 +1486,7 @@
   },
   {
     "hanzi": "能不能",
-    "pinyin": "néngbùnéng",
+    "pinyin": "néng bù néng",
     "answer": "bisa atau tidak"
   },
   {
@@ -1591,7 +1506,7 @@
   },
   {
     "hanzi": "真难得",
-    "pinyin": "zhēnnándé",
+    "pinyin": "zhēn nándé",
     "answer": "tumben sekali"
   },
   {
@@ -1601,12 +1516,12 @@
   },
   {
     "hanzi": "挺少见",
-    "pinyin": "tǐngshǎojiàn",
+    "pinyin": "tǐng shǎojiàn",
     "answer": "cukup jarang"
   },
   {
     "hanzi": "不常见",
-    "pinyin": "bùchángjiàn",
+    "pinyin": "bù chángjiàn",
     "answer": "tidak sering terlihat"
   },
   {
@@ -1661,7 +1576,7 @@
   },
   {
     "hanzi": "粘贴上",
-    "pinyin": "zhāntiēshàng",
+    "pinyin": "zhāntiē shàng",
     "answer": "menempelkan"
   },
   {
@@ -1731,7 +1646,7 @@
   },
   {
     "hanzi": "输灰系统",
-    "pinyin": "shūhuīxìtǒng",
+    "pinyin": "shūhuī xìtǒng",
     "answer": "sistem pengangkut debu"
   },
   {
@@ -1773,11 +1688,6 @@
     "hanzi": "烟囱",
     "pinyin": "yāncōng",
     "answer": "cerobong"
-  },
-  {
-    "hanzi": "轮班",
-    "pinyin": "lúnbān",
-    "answer": "kerja shift"
   },
   {
     "hanzi": "更换",
@@ -1867,12 +1777,12 @@
   {
     "hanzi": "反吹",
     "pinyin": "fǎnchuī",
-    "answer": "vibrator"
+    "answer": "backblowing"
   },
   {
     "hanzi": "离心风机",
-    "pinyin": "líxīnfēngjī",
-    "answer": "kipas sentil"
+    "pinyin": "líxīn fēngjī",
+    "answer": "kipas sentrifugal"
   },
   {
     "hanzi": "搅拌机",
@@ -1946,7 +1856,7 @@
   },
   {
     "hanzi": "母管压力",
-    "pinyin": "mǔguǎnyālì",
+    "pinyin": "mǔguǎn yālì",
     "answer": "tekanan pipa utama"
   },
   {
@@ -1981,7 +1891,7 @@
   },
   {
     "hanzi": "内六角扳手",
-    "pinyin": "nèiliùjiǎobānshou",
+    "pinyin": "nèi liùjiǎo bānshou",
     "answer": "kunci L"
   },
   {
@@ -2045,11 +1955,6 @@
     "answer": "kunci"
   },
   {
-    "hanzi": "螺丝刀",
-    "pinyin": "luósīdāo",
-    "answer": "obeng"
-  },
-  {
     "hanzi": "刷漆",
     "pinyin": "shuāqī",
     "answer": "mencat"
@@ -2059,4 +1964,4 @@
     "pinyin": "sāhuǎng",
     "answer": "berbohong"
   }
-    ]
+]
